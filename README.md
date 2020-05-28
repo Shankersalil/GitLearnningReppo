@@ -1,4 +1,4 @@
-# GitLearnningReppo
+# Git & Github Learning Repositorie 
 This repository is created for learning git commands and git hub featutes
 with the help of this project i have learned git commands like
 git init
